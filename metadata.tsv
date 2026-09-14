@@ -1,0 +1,4 @@
+filename	description	format
+notebooks/notebook.ipynb	Основной Google colab	ipynb
+data/data.csv	Исходные данные	csv
+docs/report.md	Отчёт проекта	md
